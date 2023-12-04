@@ -31,18 +31,17 @@ Proje 2 Rolden oluşmakta. Role=Admin ve Role=Student. Bir de public sayfalar me
 <br/>
 
 ## Kullanılan Teknolojiler
--MVC Mimarisi,
--Entity Framework paketleri ile çalışma,
+-MVC 
+-Entity Framework
 -NuGet Paket Yöneticisi ve konsolunu kullanma,
--Proje Veri Tabanı bağlantılarını oluşturma(SQL Server kullanılmıştır),
 -Crud İşlemleri,
 -Migration oluşturma,
--Code First yaklaşımını kullanarak tablolar oluşturma,
+-Code First
 -Foreign Key tanımlama ve ilişkisel tablolar ile çalışma,
--Dependency Injection kullanımını,
+-Dependency Injection
 -Css, Html, Bootswatch teknolojileri,
--TempData ve ViewBag kullanımı,
--Repository Disagn Pattern kullanımı,
+-TempData ve ViewBag
+-Repository Disagn Pattern
 -Resim dosyası ekleme ve taşıma işlemleri , 
 -Authorization ve Authentication (Scaffold Identity kütüphanesi)
 -Identity Razor Pages
