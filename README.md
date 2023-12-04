@@ -32,7 +32,7 @@ Proje 2 Rolden oluşmakta. Role=Admin ve Role=Student. Bir de public sayfalar me
 
 ## Kullanılan Teknolojiler
 -MVC 
-<br>
+
 -Entity Framework
 <br>
 -NuGet Paket Yöneticisi ve konsolunu kullanma,
