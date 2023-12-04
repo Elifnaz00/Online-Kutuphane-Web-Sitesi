@@ -29,3 +29,22 @@ Proje 2 Rolden oluşmakta. Role=Admin ve Role=Student. Bir de public sayfalar me
 <br/>
 ![book by category(Admin)](https://github.com/Elifnaz00/Online-Kutuphane-Web-Sitesi/assets/144447322/ecde34c8-1b6f-47c2-8d59-0d1ad0dc9a21)
 <br/>
+
+## Kullanılan Teknolojiler
+-MVC Mimarisi,
+-Entity Framework paketleri ile çalışma,
+-NuGet Paket Yöneticisi ve konsolunu kullanma,
+-Proje Veri Tabanı bağlantılarını oluşturma(SQL Server kullanılmıştır),
+-Crud İşlemleri,
+-Migration oluşturma,
+-Code First yaklaşımını kullanarak tablolar oluşturma,
+-Foreign Key tanımlama ve ilişkisel tablolar ile çalışma,
+-Dependency Injection kullanımını,
+-Css, Html, Bootswatch teknolojileri,
+-TempData ve ViewBag kullanımı,
+-Repository Disagn Pattern kullanımı,
+-Resim dosyası ekleme ve taşıma işlemleri , 
+-Authorization ve Authentication (Scaffold Identity kütüphanesi)
+-Identity Razor Pages
+-İnput doğrulama işlemleri ve Hata mesajları oluşturma
+-Clean Code prensiplerine uygun kod yazma.
